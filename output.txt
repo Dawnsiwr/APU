@@ -1,0 +1,27 @@
+[1] "Best camera:"
+                     names resolution rangeSensitivity price opinions customerEvalution       opinion_status      score
+4 Panasonic Lumix DC-FZ82         18             6400  1519       94                  4 more_than_100_opinions 0.6837838
+
+levelName
+1  Camera Purchase Decision
+2                        ¦--Criteria
+3                        ¦   ¦--Resolution: 0.3
+4                        ¦   ¦--Range Sensitivity: 0.2
+5                        ¦   ¦--Price: 0.3
+6                        ¦   °--Number of Opinions: 0.2
+7                        °--Cameras
+8                            ¦--Sony Cyber Shot: 0.05382279
+9                            ¦--Sony ZV-1: 0.009800967
+10                           ¦--DSC H-300: 0.01379195
+11                           ¦--Panasonic Lumix DC-FZ82: 0.6837838
+12                           ¦--Canon PowerShot G7 X Mark II: 0.4890307
+13                           ¦--Canon PowerShot SX620 HS: 0.2604249
+14                           ¦--Sony Cyber-shot DSC-W830: 0.1046316
+15                           ¦--Nikon Coolpix P1000: 0.2785109
+16                           ¦--Sony Cyber-shot DSC-W830: -0.1164567
+17                           ¦--Extralink Kids Camera H20: -0.6665246
+18                           ¦--Sony Cyber-shot DSC-RX100 III: 0.05382279
+19                           ¦--Kodak PixPro AZ401: -0.5152623
+20                           ¦--Canon PowerShot SX740 HS: -0.1573432
+21                           ¦--Extralink Kids Camera H27 Dual: -0.9868912
+22                           °--Ricoh WG-6: -0.3725978
